@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "434794118742",
+    "firebase_url": "https://beehive-cd8ed.firebaseio.com",
+    "project_id": "beehive-cd8ed",
+    "storage_bucket": "beehive-cd8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434794118742:android:9f787541259b988f6e85f7",
+        "android_client_info": {
+          "package_name": "huchihive.bee_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434794118742-l16kr0vp9u5p1pnrck9ufu0b9o9ulgi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWYflcz8h-IKSiFIvueA7SV90VL4SaAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434794118742-l16kr0vp9u5p1pnrck9ufu0b9o9ulgi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434794118742:android:f7fd1cd042fb15a26e85f7",
+        "android_client_info": {
+          "package_name": "huchihive.huchifinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434794118742-l16kr0vp9u5p1pnrck9ufu0b9o9ulgi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWYflcz8h-IKSiFIvueA7SV90VL4SaAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434794118742-l16kr0vp9u5p1pnrck9ufu0b9o9ulgi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
